@@ -2,6 +2,7 @@
     "posts": [
         {
             "id": 1,
+            "category": "Adventure",
             "title": "7 Unique Ways to Experience National Parks",
             "excrept": "From a glass-domed train to downhill skiing, these are some of our favorite adventures in our national parks. Bonus: they get you off the beaten path, too.",
             "image": "https://www.outsideonline.com/sites/default/files/styles/width_1200/public/2021/02/04/rocky-mountaineer-train_h.jpg?itok=u0maDLAx",
@@ -12,6 +13,7 @@
         },
         {
             "id": 2,
+            "category": "Adventure",
             "title": "Everything You Need to Know About Travel in 2021",
             "excrept": "We came up with a list of the people, places, and trends that matter now, from the rise of outdoor reservation systems and new mountain-biking meccas to where to thaw out this winter",
             "image": "https://www.outsideonline.com/sites/default/files/styles/img_1400x800/public/2021/01/26/travel-in-2021_h.jpg?itok=Roml3eSD",
@@ -22,6 +24,7 @@
         },
         {
             "id": 3,
+            "category": "Road",
             "title": "Staring Down Fear in Voyageurs National Park",
             "excrept": "Welcome to Minnesota, the Land of 10,000 Lakes and home to the Boundary Waters. Our 62 Parks Traveler found her own private island at her 28th stop on her quest to visit every national park in the U.S. ",
             "image": "https://www.outsideonline.com/sites/default/files/styles/width_1200/public/2021/01/25/voyageurs-np-sunset_h.jpg?itok=cn7R0Siv",
@@ -32,6 +35,7 @@
         },
         {
             "id": 4,
+            "category": "Road",
             "title": "Seeing Big Vistas at Theodore Roosevelt National Park",
             "excrept": "Wildlife and endless grasslands to explore in a remote corner of North Dakota made the 27th park on our 62 Parks columnist's list a must-visit destination",
             "image": "https://www.outsideonline.com/sites/default/files/styles/width_1200/public/2021/01/18/emily-on-painted-canyon-nature-trail_h.jpg?itok=ot54rVt_",
@@ -42,6 +46,7 @@
         },
         {
             "id": 5,
+            "category": "Crusing",
             "title": "I Saw the World on Cruise Ships",
             "excrept": "High school didn't serve up much adventure, so Devin Murphy signed up to do grunt work on expedition ships that sailed to Alaska, Iceland, Antarctica, and other far-flung places. Turned out to be a pretty great idea.",
             "image": "https://www.outsideonline.com/sites/default/files/styles/img_1400x800/public/2021/01/13/cruiseship-depart-devin_h.jpg?itok=VOjVIMaK",
@@ -52,6 +57,7 @@
         },
         {
             "id": 6,
+            "category": "Nature",
             "title": "Nature Is in Charge at Glacier National Park",
             "excrept": "Despite cold temperatures and rain, our 62 Parks columnist still found plenty of hiking and mountain vistas at the 26th stop on her journey to visit every U.S. national park",
             "image": "https://www.outsideonline.com/sites/default/files/styles/width_1200/public/2020/12/09/lincoln_pass.jpg?itok=-8WByQ72",
@@ -62,6 +68,7 @@
         },
         {
             "id": 7,
+            "category": "Nature",
             "title": "We're Here to See the Great Doomed Thing",
             "excrept": "What do you do after surviving a near-death experience? Visit a dying natural wonder, of course. After his husband suffers a stroke at the age of 40, our writer plans the trip of a lifetime to the Great Barrier Reef—and discovers new meaning in the term 'last-chance tourism.'",
             "image": "https://www.outsideonline.com/sites/default/files/styles/img_1400x800/public/2020/12/11/great-barrier-reef-1_h.jpg?itok=tnYhNkgd",
@@ -72,6 +79,7 @@
         },
         {
             "id": 8,
+            "category": "Lifestyle",
             "title": "Why the Emotional Support Dog Ban Is Good for Everyone",
             "excrept": "The Department of Transportation has finally reclassified emotional support animals as pets. Here's how that will affect your ability to fly with your dog next year. ",
             "image": "https://www.outsideonline.com/sites/default/files/styles/width_1200/public/2020/12/08/emotional-support-dog-flight_h.jpg?itok=OsFSxETL",
@@ -82,6 +90,7 @@
         },
         {
             "id": 9,
+            "category": "Adventure",
             "title": "Grand Teton Is a Hiker's Park",
             "excrept": "With more than 200 miles of trails, there's a lot to explore in this iconic Wyoming attraction. It's our 62 Parks Traveler's 25th stop on her journey to visit every U.S. national park.",
             "image": "https://www.outsideonline.com/sites/default/files/styles/width_1200/public/2020/11/16/lower_paintbrush_canyon_horizontal.jpg?itok=DoocsRdU",
@@ -92,6 +101,7 @@
         },
         {
             "id": 10,
+            "category": "Outdoor",
             "title": "Yellowstone National Park Is a Geyser Wonderland",
             "excrept": "Ten thousand geothermal features make this hot spot a must-see. It's our 62 Parks Traveler's 24th stop on her journey to visit every national park in the U.S.",
             "image": "https://www.outsideonline.com/sites/default/files/styles/width_1200/public/2020/11/09/imperial_geyser.jpg?itok=6PzKrK7v",
@@ -102,6 +112,7 @@
         },
         {
             "id": 11,
+            "category": "Outdoor",
             "title": "The Love and Madness of Hot Springs in the West",
             "excrept": "Both the world-weary and stoked-on-life congregate at these wild outposts—all seeking the same euphoric joy, communality, and escapism",
             "image": "https://www.outsideonline.com/sites/default/files/styles/img_1400x800/public/2020/11/12/hot-springs-mountains_h.jpg?itok=6FzgEDXK",
@@ -112,6 +123,7 @@
         },
         {
             "id": 12,
+            "category": "Nature",
             "title": "I Saw an Epic Sunset at Badlands National Park",
             "excrept": "Our 62 Parks Traveler meets bison and sees surreal geography at this South Dakota stop, the 23rd visit on her journey to see every U.S. national park",
             "image": "https://www.outsideonline.com/sites/default/files/styles/width_1200/public/2020/10/19/castle_trail.jpg?itok=E7SmknBk",
@@ -122,6 +134,7 @@
         },
         {
             "id": 13,
+            "category": "Nature",
             "title": "Here's What a Carbon Offset Actually Looks Like",
             "excrept": "Carbon offsets are confusing, and many people wonder how—or if—they even work. Hoping to find a more guilt-free way to travel, frequent flier Tim Neville heads to the ranchlands of Montana to see what an offset looks like on the ground. Hint: it involves cows.",
             "image": "https://www.outsideonline.com/sites/default/files/styles/img_1400x800/public/2020/10/21/carbon-offsetting-illo_h.jpg?itok=0wOIbnPv",
@@ -132,6 +145,7 @@
         },
         {
             "id": 14,
+            "category": "Adventure",
             "title": "Alpine Lake Spotting at Rocky Mountain National Park",
             "excrept": "With more than 350 miles of trails, 124 peaks, and 147 lakes, this must-see Colorado destination is a wilderness lover's paradise. It's our 62 Parks Traveler's 22nd stop on her journey to visit every U.S. national park.",
             "image": "https://www.outsideonline.com/sites/default/files/styles/width_1200/public/2020/08/30/rmnp.jpg?itok=YjSRXkWU",
@@ -142,6 +156,7 @@
         },
         {
             "id": 15,
+            "category": "Lifestyle",
             "title": "The New Age of Travel Guidebooks",
             "excrept": "From a cult-favorite publisher launching a national-parks series to a Kevin Costner–narrated app, these five new releases are reinventing the traditional field guide ",
             "image": "https://www.outsideonline.com/sites/default/files/styles/width_1200/public/2020/10/12/new-age-guidebooks-global-crush_h.jpg?itok=sII4tHOe",
